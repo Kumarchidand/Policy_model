@@ -50,3 +50,5 @@ Built with **React** (frontend), **Node.js + Express** (backend), and **MongoDB*
    ```bash
    git clone https://github.com/your-username/hr-policy-management-system.git
    cd hr-policy-management-system
+   admin:test@gmail.com
+   password:123
